@@ -1,0 +1,12 @@
+﻿  Overlay.cpp
+c:\users\kasia filus\desktop\katarzyna-filus-gr12-repo\projekt\saper\overlay.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kasia filus\desktop\katarzyna-filus-gr12-repo\projekt\saper\overlay.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\kasia filus\desktop\katarzyna-filus-gr12-repo\projekt\saper\overlay.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  User.cpp
+  Map.cpp
+  Main.cpp
+  Game.cpp
+  SAPER.vcxproj -> C:\Users\Kasia Filus\Desktop\Katarzyna-Filus-gr12-repo\Projekt\SAPER\Debug\SAPER.exe
+  SAPER.vcxproj -> C:\Users\Kasia Filus\Desktop\Katarzyna-Filus-gr12-repo\Projekt\SAPER\Debug\SAPER.pdb (Full PDB)
